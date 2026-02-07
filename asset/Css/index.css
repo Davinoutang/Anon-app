@@ -1,6 +1,11 @@
-@import "tailwindcss";
+/* @import "tailwindcss";
 
 @theme {
     --color-mint-500: oklch(0.72 0.11 178);
     --gap-carousel: 20px;
+} */
+
+
+:root {
+    --primary-color:#ff8f9c;
 }
